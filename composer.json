@@ -1,0 +1,11 @@
+{
+    "name": "kamrankb/fixerapi",
+    "description": "Get the latest exchange rates from FixerApi",
+    "autoload": {
+        "psr-4": {
+            "Kamrankb\\Fixerapi\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
