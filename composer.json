@@ -6,7 +6,7 @@
             "Kamrankb\\Fixerapi\\": "src/"
         }
     },
-    "minimum-stability": "dev-main",
+    "minimum-stability": "dev",
     "prefer-stable": "true",
     "require": {}
 }
